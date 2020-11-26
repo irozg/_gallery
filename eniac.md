@@ -1,5 +1,4 @@
 ---
-
 author: irozg
 title: eniac
 image_url: eniac-women-programmers.jpg
