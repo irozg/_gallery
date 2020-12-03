@@ -1,11 +1,11 @@
 ---
-author: evabat
-title: Active Badge
-year: 1990
-image_url: /images/active-badge.jpg
-caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti είναι από τα πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου.'
-license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
-license_text: Courtesy of Deutsches Museum
+author: irozg
+title: eniac
+year: 1945
+image_url: /images/eniac-women-programmers.jpg
+caption: ''
+license_url: 'https://ftp.arl.army.mil/ftp/historic-computers/'
+license_text: U.S. Army photo from the archives of the ARL Technical Library, Public Domain
 categories:
   - Αρχέτυπα 
 tags:
