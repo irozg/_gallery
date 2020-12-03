@@ -7,7 +7,7 @@ caption: 'While working on the UNIVAC I and II, Hopper pioneered the idea of aut
 license_url: 'https://en.wikipedia.org/wiki/Grace_Hopper#/media/File:Grace_Hopper_and_UNIVAC.jpg'
 license_text: Unknown (Smithsonian Institution) 
 categories:
-  - Αρχέτυπα 
+  - programming 
 tags:
   - gracehopper 
 ---
