@@ -7,7 +7,7 @@ caption: 'This work was given to a team of six women: Jean Jennings, Marlyn Wesc
 license_url: 'https://ftp.arl.army.mil/ftp/historic-computers/'
 license_text: U.S. Army photo from the archives of the ARL Technical Library, Public Domain
 categories:
-  - Αρχέτυπα 
+  - programming 
 tags:
   - eniac 
 ---
