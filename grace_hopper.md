@@ -8,6 +8,7 @@ license_url: 'https://en.wikipedia.org/wiki/Grace_Hopper#/media/File:Grace_Hoppe
 license_text: Unknown (Smithsonian Institution) 
 categories:
   - programming 
+  - Οπτικός προγραμματισμός
 tags:
   - gracehopper 
 ---
